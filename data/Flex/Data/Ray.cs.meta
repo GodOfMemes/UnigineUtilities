@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>e415732d9ccebaa8cbb55de7039dc21a3b522ab1</guid>
+	<type>component</type>
+	<hash>0fd56455</hash>
+	<runtimes>
+		<runtime id="e415732d9ccebaa8cbb55de7039dc21a3b522ab1" name="Ray.cs" link="0"/>
+	</runtimes>
+</asset>

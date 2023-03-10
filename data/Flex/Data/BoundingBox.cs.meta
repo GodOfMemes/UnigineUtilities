@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>27e6a45c359df40bb9c3b9eecfb238754e676f50</guid>
+	<type>component</type>
+	<hash>da51c09b</hash>
+	<runtimes>
+		<runtime id="27e6a45c359df40bb9c3b9eecfb238754e676f50" name="BoundingBox.cs" link="0"/>
+	</runtimes>
+</asset>

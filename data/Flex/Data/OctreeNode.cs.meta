@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>661814fb1087061e78a836e5bf35fb00f72eb25f</guid>
+	<type>component</type>
+	<hash>69666f59</hash>
+	<runtimes>
+		<runtime id="661814fb1087061e78a836e5bf35fb00f72eb25f" name="OctreeNode.cs" link="0"/>
+	</runtimes>
+</asset>
